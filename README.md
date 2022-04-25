@@ -26,7 +26,7 @@ On peut alors voir les tags de l'image, générés par l'intelligence artificiel
 
 On peut manuellement ajouter des tags si on le souhaite. 
 
-[volonté du client] On peut éditer les informations liées à l'image, telle que son nom, sa taille et d'autres informations.
+[volontée du client] On peut éditer les informations liées à l'image, telle que son nom, sa taille et d'autres informations.
 
 Une fonction de recherche permet de rechercher des images par tag. Des filtres permettent une recherche selon certains filtres que le client à souhaité nous transmettre.
 
