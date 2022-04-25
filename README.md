@@ -1,5 +1,21 @@
 # Krabbi
 Le code a été remis au client et est donc pas disponible, les détails d'implémentations ne seront pas fournis.
+
+Contributeurs : 
+- Lina Laboub
+- Mohammed Taha Fares
+- Pierre Laclaverie
+- Aurélien Arbaretaz
+- Youssef Bichichi
+
+# Sommaire 
+
+- [Krabbi](#krabbi)
+- [Sommaire](#sommaire)
+- [Introduction](#introduction)
+- [Réalisation](#réalisation)
+
+
 # Introduction 
 
 Projet Ingénieurie realisé pour un client de l'école. Celui-ci a veut lancer une application mobile permettant de stocker des images dans une gallerie. Lors de l'enregistrement, ces images sont envoyées à un serveur distant où est executé un programme permettant d'associer aux photos des mots clefs.
